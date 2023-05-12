@@ -12,7 +12,7 @@ L
   
 # 3. King (Vua)  
   
-[[❤ Mar|❤ Mar]]  
+[[../../../🔭 Astronomy (Profile)/1. Star (S) ⭐/❤️ Mar/❤ Mar|❤ Mar]]  
   
 # 4. Color (Màu sắc)  
   
@@ -83,4 +83,8 @@ __
   
 # 19. 3rd Cushion Floor (Lớp đệm tầng 3)  
   
-# 20. 4th Surface Floor (Lớp bề mặt tầng 4)
+__  
+  
+# 20. 4th Surface Floor (Lớp bề mặt tầng 4)  
+  
+__
